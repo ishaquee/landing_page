@@ -1,0 +1,85 @@
+{
+  "Header": {
+    "title": "AI Voice Assistant",
+    "paragraph": "A voice assistant is a digital assistant that uses voice recognition, language processing algorithms, and voice synthesis to listen to specific voice commands and return relevant information or perform specific functions as requested by the user"
+  },
+  "About": {
+    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "Why": [
+      "Lorem ipsum dolor",
+      "Tempor incididunt",
+      "Lorem ipsum dolor",
+      "Incididunt ut labore"
+    ],
+    "Why2": [
+      "Aliquip ex ea commodo",
+      "Lorem ipsum dolor",
+      "Exercitation ullamco",
+      "Lorem ipsum dolor"
+    ]
+  },
+
+  "Services": [
+    {
+      "icon": "fa fa-microchip",
+      "name": "Intelligent Personal Assistant",
+      "text": "Intelligent personal assistants can go online and search for an answer to a user’s question. Either text or voice can trigger an action."
+    },
+    {
+      "icon": "fa fa-microphone",
+      "name": "Voice-based Search",
+      "text": "The key here is voice. A voice assistant is a digital assistant that uses voice recognition"
+    },
+    {
+      "icon": "fa fa-cloud",
+      "name": "Get news, weather, and traffic",
+      "text": "Why turn on the TV or peck around on the web for top-line news and weather info when your voice assistant has your back? The -- voice assistant and its brethren come pre-programmed to deliver key points about your world and town."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "REMOVE LANGUAGE BARRIERS",
+      "text": "Voice assistant technology integrates with translation services, helping your business to handle any language barriers that may occur."
+    },
+    {
+      "icon": "fa fa-smile-o",
+      "name": "Have random fun",
+      "text": "The makers of all four of the best voice assistants have teams of people working in the background, tirelessly hiding voice-based “Easter eggs” to make you laugh. Ask any assistant, “What does the fox say?” and get some variation of, “Fra-ca ca-ca ca-ca ca-ca cow.”"
+    },
+    {
+      "icon": "fa fa-cogs",
+      "name": "AUTOMATES REPETITIVE TASKS",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    }
+  ],
+  
+  "Contact": {
+    "address": "HSR Layout - Bangalore , India " ,
+    "phone": "+91 8248650997",
+    "email": "ishaque0310@gmail.com",
+    "facebook": "https://www.instagram.com/invites/contact/?i=17mq2c8k9frvk&utm_content=exdcyp2",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Live Conversations",
+      "text": "Talk live with your AI assistant "
+    },
+    {
+      "icon": "fa fa-windows",
+      "title": "Running on Windows-OS",
+      "text": "This AI Voice Assistant Working on Windows 7 or higher Versions"
+    },
+    {
+      "icon": "fa fa-calculator",
+      "title": "Voice Based Calculation",
+      "text": "Smart Voice Calculator, is designed to make arithmetic calculations using voice recognition "
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    }
+  ]
+}
